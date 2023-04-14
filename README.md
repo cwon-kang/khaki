@@ -8,7 +8,7 @@ A brief description of what this project does and who it's for
 ## Authors
 
 - [@David-Adams](https://github.com/dra27013)
-- [@Chaewon-Kang](http://github.com/cwon-kang)
+- [@Chaewon-Kang](https://github.com/cwon-kang/khaki)
 - [@Spencer-Gordon](https://github.com/SpencerGordon16) 
 - [@Erin-ODea](https://github.com/erinodea/SQLgroupProj1)
 - [@Kenny-Johnson](https://github.com/kmj07215) 
